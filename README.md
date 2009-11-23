@@ -1,7 +1,7 @@
 TextboxList
 ===========
 
-TextboxList turns normal textboxes into a widget which can be navigated with the keyboard, effectively turning your input into a “list” of items that can be easily deleted. It comes with an Autocomplete plugin.
+TextboxList turns normal textboxes into a widget which can be navigated with the keyboard, effectively turning your input into a “list” of items that can be easily deleted. It comes with an Autocomplete plugin, with on-demand and local value polling.
 
 ![Screenshot](http://devthought.com/wp-content/uploads/2009/04/picture-1.png)
 
